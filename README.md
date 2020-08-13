@@ -12,41 +12,11 @@ My name is Maciej and i'm aspiring Frontend Developer
 
 ### Working knowledge 💪
 
-Semantic HTML5,
-
- Flexbox, Markdown, 
- 
- JS: Local storage, 
- 
- CSS Grid, 
- 
- Form, 
- 
- JS: dom manipulations,
-  
-  SASS, 
-  
-  Sketch/Figma
+Semantic HTML5, Flexbox, Markdown, JS: Local storage, CSS Grid, Form, JS: dom manipulations, SASS, Sketch/Figma
 
 ### Know something about 🤔
 
-JavaScript ES6 + features,
-
-CSS animations,
-
-Working with API,
-
-NPM scripts,
-
-Progressive web apps,
-
-Git,
-
-Accessibility,
-
-Bootstrap,
-
-Gatsby
+React.js, JavaScript ES6 + features, CSS animations, Working with API, NPM scripts, Progressive web apps, Git, Accessibility, Bootstrap, Gatsby
 
 
 
