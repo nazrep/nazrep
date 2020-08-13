@@ -10,12 +10,15 @@ My name is Maciej and i'm aspiring Frontend Developer
 
 
 
-#Working knowledge 💪
+##Working knowledge 💪
+
 Semantic HTML5,
 
  Flexbox, Markdown, 
  
- JS: Local storage, CSS Grid, 
+ JS: Local storage, 
+ 
+ CSS Grid, 
  
  Form, 
  
@@ -25,7 +28,8 @@ Semantic HTML5,
   
   Sketch/Figma
 
-#Know something about 🤔
+##Know something about 🤔
+
 JavaScript ES6 + features,
 
 CSS animations,
