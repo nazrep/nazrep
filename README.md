@@ -18,6 +18,14 @@ Semantic HTML5, Flexbox, Markdown, JS: Local storage, CSS Grid, Form, JS: dom ma
 
 React.js, JavaScript ES6 + features, CSS animations, Working with API, NPM scripts, Progressive web apps, Git, Accessibility, Bootstrap, Gatsby
 
+### Want to learn 🎓
+
+Node JS, TypeScript, WebSockets, Next JS, Redux, React Router
+
+
+
+
+
 
 
 
