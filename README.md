@@ -10,7 +10,7 @@ My name is Maciej and i'm aspiring Frontend Developer
 
 
 
-##Working knowledge 💪
+### Working knowledge 💪
 
 Semantic HTML5,
 
@@ -28,7 +28,7 @@ Semantic HTML5,
   
   Sketch/Figma
 
-##Know something about 🤔
+### Know something about 🤔
 
 JavaScript ES6 + features,
 
