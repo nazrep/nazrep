@@ -3,7 +3,7 @@ My name is Maciej and i'm Junior Frontend Developer
 
 
 
-- 🔭 I’m currently working on KetoPrzepis(simple aplication in React.js about ketogenic diet and keto dishes) and youtube-clone
+- 🔭 I’m currently working on Overbooed.io
 - 🌱 I’m currently learning TypeScript && StyledComponents && Express.js && MongoDB
 - 📫 How to reach me: perzankowski.m2001@gmail.com
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
