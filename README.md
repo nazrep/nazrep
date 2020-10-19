@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Overbooed.io**
 
-- 🌱 I’m currently learning **TypeScript && StyledComponents && Express.js && MongoDB**
+- 🌱 I’m currently learning **TypeScript && React && Java**
 
 - 👨‍💻 All of my projects are available at [https://nazrep-portfolio-website.herokuapp.com/](https://nazrep-portfolio-website.herokuapp.com/)
 
