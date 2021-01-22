@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Maciej Perzankowski</h1>
-<h3 >A passionate Frontend Developer from Warsaw, Poland</h3>
+<h3 >A passionate Frontend Developer from Warsaw, Poland</h3><a href="https://www.linkedin.com/in/maciej-perzankowski/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/maciej-perzankowski/" height="30" width="30" /></a>
 
  - 🔭 I’m currently working on **Overbooked.io**
 
@@ -12,8 +12,6 @@
  - 📫 How to reach me **perzankowski.maciej@gmail.com**
 
 
-
-<a href="https://www.linkedin.com/in/maciej-perzankowski/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/maciej-perzankowski/" height="30" width="30" /></a>
 
 
 
