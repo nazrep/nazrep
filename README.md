@@ -1,4 +1,4 @@
-<h1 >Hi 👋, I'm Maciej Perzankowski</h1>
+<h2 >Hi 👋, I'm Maciej Perzankowski</h2>
 <h3 >A passionate Frontend Developer from Warsaw, Poland</h3>
 
  - 🔭 I’m currently working on **Overbooked.io**
