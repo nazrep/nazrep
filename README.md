@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Maciej Perzankowski</h1>
 <h3 align="center">A passionate Frontend Developer from Warsaw, Poland/h3>
 
-- 🔭 I’m currently working on **Overbooked.io**
+ 🔭 I’m currently working on **Overbooked.io**
 
-- 🌱 I’m currently learning **TypeScript && React && Java** && Redux js
+ 🌱 I’m currently learning **TypeScript && React && Java** && Redux js
 
-- 👨‍💻 All of my projects are available at [https://nazrep-portfolio-website.herokuapp.com/](https://nazrep-portfolio-website.herokuapp.com/)
+ 👨‍💻 All of my projects are available at [https://nazrep-portfolio-website.herokuapp.com/](https://nazrep-portfolio-website.herokuapp.com/)
 
-- 💬 Ask me about **React**
+ 💬 Ask me about **React**
 
-- 📫 How to reach me **perzankowski.maciej@gmail.com**
+ 📫 How to reach me **perzankowski.maciej@gmail.com**
 
 
 <p align="center">
