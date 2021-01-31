@@ -5,7 +5,7 @@
 
  - 🌱 I’m currently learning **TypeScript && React && Java** && Redux js
 
- - 👨‍💻 All of my projects are available at http://www.maciejperzankowski.com/
+ - 👨‍💻 All of my projects are available at [http://www.maciejperzankowski.com/](maciejperzankowski.com)
 
  - 💬 Ask me about **React**
 
