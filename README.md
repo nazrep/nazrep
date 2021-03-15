@@ -3,7 +3,7 @@
 
  - 🔭 I’m currently working on **Overbooked.io**
 
- - 🌱 I’m currently learning **Redux js**
+ - 🌱 I’m currently learning **Redux**
 
  - 👨‍💻 All of my projects are available at [maciejperzankowski.com](http://www.maciejperzankowski.com/)
 
