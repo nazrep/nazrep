@@ -1,7 +1,7 @@
 <h2 >Hi 👋, I'm Maciej Perzankowski</h2>
 <h3 >A passionate Frontend Developer from Warsaw, Poland</h3>
 
- - 🔭 I’m currently working on **Overbooked.io**
+ - 🔭 I’m currently working in **Apprife**
 
  - 🌱 I’m currently learning **Redux**
 
