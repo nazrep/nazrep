@@ -1,6 +1,14 @@
-### Hi there 👋
+### Hi, I'm Maciej 👋
 
-I'm a **Frontend Developer** with above two years of professional experience in building web solutions.
-My specialties include quickly learning new skills and programming languages, problem solving, domain driven design, website optimization, and the Model **View View Model (MVVM)** and **Model View Controller (MVC)** methods of organizing code. So far I have **Vue, React, TypeScript and Node js** under my belt. I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head.
+Frontend Engineer with 5+ years of experience building digital products — from fintech trading platforms to e-commerce solutions and my own AI-powered SaaS projects.
 
-Education and career progress can be found on my linkedin profile https://www.linkedin.com/in/maciej-perzankowski. If you are interested in cooperation, please let me know. Send me an email: perzankowski.maciej@gmail.com.
+#### What I do
+- 🏦 **@ XTB** — Building customer care products on a large-scale trading platform (Angular, TypeScript, Java, gRPC)
+- 🚀 **Side projects** — Designing and shipping my own SaaS products with AI (LLMs, agents, prompt engineering)
+
+#### Tech I work with
+`Angular` `React` `Vue` `Next.js` `TypeScript` `RxJS` `NgRx` `Node.js` `Java` `gRPC` `Web Components` `Microfrontends`
+
+#### Let's connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/maciej-perzankowski)
+- 📧 perzankowski.maciej@gmail.com
